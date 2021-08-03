@@ -1,0 +1,1097 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 12, 12 Pro – 1;
+	--web-view-id: iPhone_12_12_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_12_12_Pro__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_12_12_Pro__1 {
+	position: absolute;
+	width: 390px;
+	height: 2560px;
+	background-color: rgba(13,14,18,1);
+	overflow: hidden;
+	--web-view-name: iPhone 12, 12 Pro – 1;
+	--web-view-id: iPhone_12_12_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#AdNepal {
+	left: 22px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+}
+#Home {
+	left: 26px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#Services {
+	left: 90px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+}
+#About {
+	left: 167px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+}
+#Adformat {
+	left: 232px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#Our_clients {
+	left: 312px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+}
+#En {
+	left: 14px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(73,254,216,1);
+	text-transform: uppercase;
+}
+#Nepals_first_Ad_Network__ {
+	left: 85px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	line-height: 75px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#Twitter {
+	transform: matrix(1,0,0,1,-13.5,259.5) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#we_are_Nepal_based_advertiseme {
+	left: 92px;
+	top: 309px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	white-space: nowrap;
+	line-height: 33px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(114,123,140,1);
+	letter-spacing: 0.12px;
+}
+#Facebook {
+	transform: matrix(1,0,0,1,-19,557) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Instagram {
+	transform: matrix(1,0,0,1,-24.5,405.5) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Rectangle_43 {
+	fill: rgba(98,19,246,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 30px;
+	left: 89px;
+	top: 411px;
+}
+#Rectangle_44 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 19px;
+	left: 94px;
+	top: 416px;
+}
+#arrow_down {
+	position: absolute;
+	width: 5.82px;
+	height: 6.077px;
+	left: 100.56px;
+	top: 422.911px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_16 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_17 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_18 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_19 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8.077px;
+	left: 2.91px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: transparent;
+	stroke: rgba(98,19,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 8.648px;
+	height: 5.453px;
+	left: 0px;
+	top: 3.039px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Get_Started {
+	left: 114px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	line-height: 10px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 6px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Rectangle_46 {
+	fill: rgba(23,28,39,1);
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 31px;
+	left: 200px;
+	top: 410px;
+}
+#Rectangle_45 {
+	fill: rgba(23,38,52,1);
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 20px;
+	left: 206px;
+	top: 416px;
+}
+#virtual_tour {
+	left: 226px;
+	top: 421px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	line-height: 9px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 6px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#lets_promote_local_product_ {
+	left: 94px;
+	top: 474px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -8.5px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#download_8 {
+	position: absolute;
+	width: 393px;
+	height: 236px;
+	left: -3px;
+	top: 508px;
+	overflow: visible;
+}
+#both_advertisers_and_publisher {
+	left: 71px;
+	top: 744px;
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#our_Services {
+	left: 109.214px;
+	top: 874px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	line-height: 88px;
+	margin-top: -29px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#Polygon_5 {
+	fill: rgba(98,19,246,1);
+	stroke: rgba(73,254,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_5 {
+	overflow: visible;
+	position: absolute;
+	width: 188.75px;
+	height: 124.098px;
+	left: -33.916px;
+	top: 977.164px;
+	transform: [object Object];
+}
+#No_matter_if_you_are_a_newbie_ {
+	left: 118px;
+	top: 1004px;
+	position: absolute;
+	overflow: hidden;
+	width: 237px;
+	height: 114px;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#Advertisers {
+	left: 172px;
+	top: 972px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#undraw_Investing_re_bov7-remov {
+	position: absolute;
+	width: 93.496px;
+	height: 67.145px;
+	left: 26.485px;
+	top: 1306.7px;
+	overflow: visible;
+}
+#Polygon_6 {
+	fill: rgba(73,254,216,1);
+	stroke: rgba(98,19,246,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_6 {
+	overflow: visible;
+	position: absolute;
+	width: 189.555px;
+	height: 124.627px;
+	left: -23.777px;
+	top: 1258px;
+	transform: [object Object];
+}
+#Earn_by_Monetizing_all_your_we {
+	left: 125px;
+	top: 1306.7px;
+	position: absolute;
+	overflow: hidden;
+	width: 516px;
+	height: 121px;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#Publisher {
+	left: 178px;
+	top: 1270px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -13px;
+	text-align: center;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#Rectangle_47 {
+	fill: rgba(23,28,39,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 53px;
+	left: 145px;
+	top: 1148px;
+}
+#Rectangle_48 {
+	fill: rgba(23,28,39,1);
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 53px;
+	left: 145px;
+	top: 1444px;
+}
+#Learn_More {
+	left: 184px;
+	top: 1164px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	line-height: 29px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#Learn_More_bo {
+	left: 184px;
+	top: 1460px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	line-height: 29px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.17px;
+}
+#AD_FORMATS {
+	left: 158.857px;
+	top: 1548px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 88px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#Banner_Ads {
+	left: 102px;
+	top: 1700px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#download_13 {
+	position: absolute;
+	width: 257px;
+	height: 164px;
+	left: 166px;
+	top: 1571px;
+	overflow: visible;
+}
+#Video_Ads_ {
+	left: 265px;
+	top: 1692px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#our_clients_ {
+	left: 170.286px;
+	top: 1758px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	line-height: 88px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#maxresdefault-removebg-preview {
+	position: absolute;
+	width: 159.234px;
+	height: 89.571px;
+	left: -15.769px;
+	top: 1774.318px;
+	overflow: visible;
+}
+#landing_logo_motorcycle {
+	position: absolute;
+	width: 50.93px;
+	height: 51.085px;
+	left: 118px;
+	top: 1805.328px;
+	overflow: visible;
+}
+#Bajaj-Logo {
+	position: absolute;
+	width: 81.108px;
+	height: 44.259px;
+	left: 165.892px;
+	top: 1805.371px;
+	overflow: visible;
+}
+#ID15691057161525672068logo-rem {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 247px;
+	top: 1811px;
+	overflow: visible;
+}
+#shivam-logo {
+	position: absolute;
+	width: 43px;
+	height: 31px;
+	left: 303px;
+	top: 1812px;
+	overflow: visible;
+}
+#Payment_system {
+	left: 151.643px;
+	top: 1916px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	line-height: 88px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: Gilroy ☞;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.12px;
+	text-transform: capitalize;
+}
+#download_17 {
+	position: absolute;
+	width: 230px;
+	height: 138px;
+	left: 218px;
+	top: 1917px;
+	overflow: visible;
+}
+#Khalti_Digital_Wallet_Logo {
+	position: absolute;
+	width: 82px;
+	height: 44px;
+	left: 118px;
+	top: 1964px;
+	overflow: visible;
+}
+#esewa-logo {
+	position: absolute;
+	width: 68px;
+	height: 40px;
+	left: 221px;
+	top: 1964px;
+	overflow: visible;
+}
+#Rectangle_49 {
+	fill: rgba(35,35,35,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	height: 478px;
+	left: 0px;
+	top: 2079px;
+}
+#about_us {
+	left: 23px;
+	top: 2132px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Ad_Nepal_is_a_full_and_self-se {
+	left: 23px;
+	top: 2168px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+#contact_us {
+	left: 256px;
+	top: 2139px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#ID01-6611857 {
+	left: 260px;
+	top: 2186px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Bhaktapur_ {
+	left: 260px;
+	top: 2211px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#po__15_343_ {
+	left: 260px;
+	top: 2237px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Fax__201211 {
+	left: 260px;
+	top: 2262px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#company {
+	left: 36px;
+	top: 2357px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#our_reviews {
+	left: 37px;
+	top: 2394px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#our_values {
+	left: 37px;
+	top: 2422px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#our_socials {
+	left: 37px;
+	top: 2454px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#f_logo_RGB-Hex-Blue_512 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 36px;
+	top: 2481px;
+	overflow: visible;
+}
+#ID2-27646_twitter-logo-png-tra {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	left: 76px;
+	top: 2481px;
+	overflow: visible;
+}
+#made_in_Nepal_ {
+	left: 254.253px;
+	top: 2355.215px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#ID1680px-Flag_of_Nepalsvg {
+	position: absolute;
+	width: 91.523px;
+	height: 111.572px;
+	left: 248.739px;
+	top: 2388.213px;
+	overflow: visible;
+}
+#download_14 {
+	position: absolute;
+	width: 386px;
+	height: 246px;
+	left: -68px;
+	top: 1559px;
+	overflow: visible;
+}
+#download_10 {
+	position: absolute;
+	width: 315px;
+	height: 200px;
+	left: -95px;
+	top: 962px;
+	overflow: visible;
+}
+#download_16 {
+	position: absolute;
+	width: 210px;
+	height: 126px;
+	left: -15px;
+	top: 1923px;
+	overflow: visible;
+}
